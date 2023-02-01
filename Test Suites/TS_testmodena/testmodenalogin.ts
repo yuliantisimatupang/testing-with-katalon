@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>testmodenalogin</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>9e2dcb76-7935-4b20-a8ae-1fa787c2923c</testSuiteGuid>
+   <testCaseLink>
+      <guid>2b354db4-602a-4605-ab6f-8b390fae7699</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_testmodena/testmodenalogin</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9121b3d7-c287-43fd-9166-25f4efc5edf3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TD_testmodena/testmodena</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>9121b3d7-c287-43fd-9166-25f4efc5edf3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>70663042-71da-4e92-8724-c16025a5c16a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9121b3d7-c287-43fd-9166-25f4efc5edf3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>c6b8efdc-160c-4dd9-b182-6e918b2b5616</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9121b3d7-c287-43fd-9166-25f4efc5edf3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expected_result</value>
+         <variableId>b8f4521c-52dc-41da-bd06-15685a0d9bb2</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

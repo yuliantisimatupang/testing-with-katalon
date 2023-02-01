@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tally Checker First Mile</name>
+   <tag></tag>
+   <elementGuidId>90420b9f-c2b3-4d3e-8b43-82a4a5e4d318</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b2-l1-122_11-b4-Title']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b2-l1-122_11-b4-Title > a > span.ThemeGrid_MarginGutter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a2bf50bf-e5bb-406f-a107-61bb9e3c5c0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ThemeGrid_MarginGutter</value>
+      <webElementGuid>d135d9c8-759e-4e65-a146-12a1725453a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tally Checker First Mile</value>
+      <webElementGuid>99b60b77-21da-4520-bc24-ba5490d59de7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b2-l1-122_11-b4-Title&quot;)/a[1]/span[@class=&quot;ThemeGrid_MarginGutter&quot;]</value>
+      <webElementGuid>594b3323-254e-4875-bfff-74eb990bc288</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b2-l1-122_11-b4-Title']/a/span</value>
+      <webElementGuid>2449b50a-48b7-4369-8b11-b65468c01e6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Info'])[1]/following::span[1]</value>
+      <webElementGuid>e123a6b5-1d38-4b2a-8fde-cd2674ae695f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly Booking Average'])[1]/following::span[2]</value>
+      <webElementGuid>f8f8aab9-fecb-4489-888e-c0c5b94511e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tally Checker Last Mile'])[1]/preceding::span[1]</value>
+      <webElementGuid>885bdc50-2f31-42a6-a3a5-2c40efd92f3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tally Checker Mid Mile'])[1]/preceding::span[2]</value>
+      <webElementGuid>cd3b503b-e3ec-481b-b512-afb997479fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tally Checker First Mile']/parent::*</value>
+      <webElementGuid>6df6cf7c-32c1-40a7-8264-02ccef196d4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div/div/div/a/span</value>
+      <webElementGuid>4e027431-4bcd-41be-9963-532d569088a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tally Checker First Mile' or . = 'Tally Checker First Mile')]</value>
+      <webElementGuid>7a53a57a-bd07-404d-adfa-48bb570ac49b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

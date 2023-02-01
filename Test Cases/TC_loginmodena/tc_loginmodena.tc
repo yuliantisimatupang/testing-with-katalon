@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_loginmodena</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b1f00d1-3ec1-45bf-89a4-9e020ca1a365</testCaseGuid>
+   <variable>
+      <defaultValue>'admin@laravolt.dev'</defaultValue>
+      <description></description>
+      <id>a546e2c6-bfa8-47a2-9dd6-e4828035117f</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Asdf1234'</defaultValue>
+      <description></description>
+      <id>2c264c37-9965-43c7-a3be-18c8493032b7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4fd28114-4703-4e2e-87a2-679645d35b1a</id>
+      <masked>false</masked>
+      <name>expected_result</name>
+   </variable>
+</TestCaseEntity>

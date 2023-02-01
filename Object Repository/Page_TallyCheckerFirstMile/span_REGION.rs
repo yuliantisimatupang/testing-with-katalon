@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_REGION</name>
+   <tag></tag>
+   <elementGuidId>12a78756-1769-4b15-a883-31bd68f834c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-b2-b1-DropDownList']/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.comboboxCustom.choices__inner.disable-select > div > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4fef7c7f-ee41-46b7-95e1-f7697f12eb30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REGION</value>
+      <webElementGuid>215f2411-d0e1-40e9-9b50-2a5ac12ba0a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-b2-b1-DropDownList&quot;)/div[@class=&quot;comboboxCustom choices__inner disable-select&quot;]/div[1]/span[1]</value>
+      <webElementGuid>81884049-43ee-40ab-8525-847897b5c5b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-b2-b1-DropDownList']/div/div/span</value>
+      <webElementGuid>5548efe0-fc1d-487f-8712-bc6c13d4afe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View By'])[1]/following::span[1]</value>
+      <webElementGuid>19f7f3c1-69e9-4481-8f2c-5130a07fba99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Input'])[2]/following::span[2]</value>
+      <webElementGuid>eb8652f1-faeb-4d05-b0c4-1d6c9a149f1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGION'])[2]/preceding::span[3]</value>
+      <webElementGuid>05174909-7bfd-449d-b444-c96b0aceef91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CITY'])[1]/preceding::span[5]</value>
+      <webElementGuid>3ca51cec-778b-4ba5-87c2-23afb713e3d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='REGION']/parent::*</value>
+      <webElementGuid>4b112915-87c6-4610-acd6-298e8611e6b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/span</value>
+      <webElementGuid>fdd87a22-4e10-4026-8633-1a0b84ed4a03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'REGION' or . = 'REGION')]</value>
+      <webElementGuid>429044fe-203e-4156-863c-de802d42cb5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

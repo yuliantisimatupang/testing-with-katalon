@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Shiper</name>
+   <tag></tag>
+   <elementGuidId>0064ba70-e09b-48c4-88a9-73585f6685f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulky Pickup'])[1]/preceding::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e43bf944-1b13-4d66-b717-4cf6b694dbb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>ed7546f2-14f1-431f-b16a-fe4e06788ce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shipper</value>
+      <webElementGuid>dde21d58-15ba-4c1d-b04f-11b749757813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-main-layout[1]/nz-layout[@class=&quot;layout ant-layout ant-layout-has-sider&quot;]/nz-sider[@class=&quot;ant-layout-sider ant-layout-sider-dark&quot;]/div[@class=&quot;ant-layout-sider-children&quot;]/ul[@class=&quot;ant-menu ant-menu-root ant-menu-light ant-menu-inline&quot;]/div[@class=&quot;ng-star-inserted&quot;]/li[@class=&quot;ant-menu-submenu ant-menu-submenu-inline ng-star-inserted&quot;]/div[@class=&quot;ant-menu-submenu-title&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>085edb78-923c-4ed8-b203-e811fed4c40d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulky Pickup'])[1]/preceding::span[1]</value>
+      <webElementGuid>cb2c36da-8d7e-4f20-995e-4870d456cad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Email'])[1]/preceding::span[2]</value>
+      <webElementGuid>bca026f6-a6dc-4c3e-8480-4615319a2b2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shipper']/parent::*</value>
+      <webElementGuid>9fbec9a2-30c6-4604-bbcc-aa713421dddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>e8fdd4c3-1f17-4679-b747-6b7046d12cc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Shipper' or . = 'Shipper')]</value>
+      <webElementGuid>d0a3d578-c18e-4216-af3a-7564a795bfce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

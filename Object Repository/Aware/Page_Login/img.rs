@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>7412efcd-7330-4c83-b025-6ffd95dbbed7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-Active']/div/div/div[2]/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ThemeGrid_Width6.ThemeGrid_MarginGutter > a > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ec69b302-59f9-45cd-85d5-47cbbdd30301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/AwareWeb/img/AwareWeb.office365.svg?quiYPox+baTVtL40lBqJEQ</value>
+      <webElementGuid>8e80b6f5-84f2-4f08-9d59-3f1ecb172fab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-Active&quot;)/div[@class=&quot;margin-top-m&quot;]/div[@class=&quot;text-align-right ThemeGrid_Width8 ThemeGrid_MarginGutter&quot;]/div[@class=&quot;ThemeGrid_Width6 ThemeGrid_MarginGutter&quot;]/a[1]/img[1]</value>
+      <webElementGuid>30ca2976-1493-4353-96ee-da3968866c02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-Active']/div/div/div[2]/a/img</value>
+      <webElementGuid>8ac9bad7-63c5-4566-9b11-de1cf6db59a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/img</value>
+      <webElementGuid>9782a3ad-fb2b-4155-8382-51ab76c6c514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/AwareWeb/img/AwareWeb.office365.svg?quiYPox+baTVtL40lBqJEQ']</value>
+      <webElementGuid>1c4a97ad-9532-466f-9e93-8a8a3e4da3ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

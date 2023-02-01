@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_App Feedback is AvailableYou find error_04c6e2</name>
+   <tag></tag>
+   <elementGuidId>9091dde8-dc42-44cc-9067-55da62c19436</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::div[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.popup-dialog.popup-dialog.popup-dialog-custom.padding-x-none.padding-top-none.shadow-l.border-radius-soft</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5c8f0641-e3bf-4905-8219-c36975d1691d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popup-dialog popup-dialog popup-dialog-custom padding-x-none padding-top-none shadow-l border-radius-soft</value>
+      <webElementGuid>e1f20010-76b2-47b4-8b09-915a2394569e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>63727031-80d6-408a-a440-b4a0fbe14e29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-modal</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>64a94315-c1a1-4e80-84b7-2f44280eb672</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>App Feedback is Available!You find errors and bugs in the app? Report to us via App Feedback.Click App Feedback icon in the bottom right corner and submit your feedback.GOT IT</value>
+      <webElementGuid>4b5a2467-9543-41dd-8c5c-94b743771608</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;popup-disable-scroll&quot;]/body[@class=&quot;desktop landscape chrome windows&quot;]/div[@class=&quot;portal-class&quot;]/div[1]/div[@class=&quot;popup-backdrop&quot;]/div[@class=&quot;popup-dialog popup-dialog popup-dialog-custom padding-x-none padding-top-none shadow-l border-radius-soft&quot;]</value>
+      <webElementGuid>a2dfd767-bef7-4024-931d-cb0eb6206612</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::div[8]</value>
+      <webElementGuid>10a1026a-6cfa-4179-960c-8491675584b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here to enter feedback'])[1]/following::div[11]</value>
+      <webElementGuid>f1d44d71-b0bc-453d-bb6c-4c64bf15fd3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div</value>
+      <webElementGuid>1bb2b288-41cd-404a-ba51-749bdaab22af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'App Feedback is Available!You find errors and bugs in the app? Report to us via App Feedback.Click App Feedback icon in the bottom right corner and submit your feedback.GOT IT' or . = 'App Feedback is Available!You find errors and bugs in the app? Report to us via App Feedback.Click App Feedback icon in the bottom right corner and submit your feedback.GOT IT')]</value>
+      <webElementGuid>cff8cc3f-9acd-4c2b-8324-c11cd7036c97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

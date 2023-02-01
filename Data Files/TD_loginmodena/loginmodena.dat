@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>loginmodena</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>79265cb5-cd5e-4892-80f3-648bd4bf7016</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>succes_login admin%40laravolt.dev Asdf1234 null</data>
+   <data>failed_login adminlaravol.dev Asdf1234 The+account+or+password+you+entered+is+wrong.+If+you+don%27t+have+an+account%2C+please+contact+admin+for+registration+first.</data>
+   <data>failed_login admin%40laravolt.dev asdf123 The+account+or+password+you+entered+is+wrong.+If+you+don%27t+have+an+account%2C+please+contact+admin+for+registration+first.</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>deskripsi</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>email</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>password</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>expected_result</name>
+      <size>3</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>OR_btnLogin</name>
+   <tag></tag>
+   <elementGuidId>de628a70-0653-40f2-a8ee-c230a2205ba7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;loginForm&quot;]/table/tbody/tr[1]/td[2]/table/tbody/tr/td[2]/table/tbody/tr[13]/td/table/tbody/tr/td[2]/a/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

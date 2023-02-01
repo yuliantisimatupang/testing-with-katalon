@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>testmodenalogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>850bb79c-1094-4f00-b637-b67aa02c0f16</testCaseGuid>
+   <variable>
+      <defaultValue>'admin@laravolt.dev'</defaultValue>
+      <description></description>
+      <id>70663042-71da-4e92-8724-c16025a5c16a</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Asdf1234'</defaultValue>
+      <description></description>
+      <id>c6b8efdc-160c-4dd9-b182-6e918b2b5616</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b8f4521c-52dc-41da-bd06-15685a0d9bb2</id>
+      <masked>false</masked>
+      <name>expected_result</name>
+   </variable>
+</TestCaseEntity>
